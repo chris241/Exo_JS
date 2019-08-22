@@ -18,3 +18,4 @@ const entrepreneurs = [
   { first: 'Marc', last: 'Andreessen', year: 1971 },
   { first: 'Peter', last: 'Thiel', year: 1967 }
 ];
+console.log(entrepreneurs.length);
